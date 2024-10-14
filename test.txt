@@ -1,0 +1,3 @@
+attending the git seession
+this is my first repo
+hello world
